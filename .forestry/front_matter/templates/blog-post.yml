@@ -32,3 +32,5 @@ fields:
       format: markdown
   label: Post
   description: Content post
+pages:
+- blog-post/headless-cms.md
