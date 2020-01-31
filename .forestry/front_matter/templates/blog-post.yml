@@ -21,7 +21,7 @@ fields:
 - name: cover_image
   type: image_gallery
   config: {}
-  label: Cover Image
+  label: Cove Image
 - name: post
   type: textarea
   default: ''
