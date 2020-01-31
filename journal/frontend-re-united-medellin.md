@@ -1,7 +1,7 @@
 ---
 date: 2020-01-31
 author: Nichlas W. Andersen
-title: FRONTEND RE-UNITED MEDELLIN
+title: "FRONTEND RE-UNITED MEDELLIN \U0001F1E8\U0001F1F4"
 excerpt: Este es un ejemplo
 
 ---
